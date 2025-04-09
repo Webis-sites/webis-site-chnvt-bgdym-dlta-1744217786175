@@ -1,8 +1,11 @@
 {
-  "projectName": "חנות-בגדים-דלתא-8478",
-  "businessName": "חנות בגדים דלתא",
-  "created": "2025-04-09T17:07:58.687Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-09T17:08:23.327Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-chnvt-bgdym-dlta-1744217786175"
 }
