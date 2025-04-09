@@ -1,11 +1,19 @@
 {
-  "timestamp": "2025-04-09T17:08:23.327Z",
+  "timestamp": "2025-04-09T17:09:27.850Z",
   "status": {
     "totalComponents": 0,
     "completedComponents": 0,
-    "failedComponents": 0,
+    "failedComponents": 1,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Site Plan",
+      "type": "plan",
+      "status": "failed",
+      "description": "יצירת תוכנית האתר",
+      "error": "שגיאה בשירות Anthropic: No object generated: response did not match schema."
+    }
+  ],
   "repoName": "webis-site-chnvt-bgdym-dlta-1744217786175"
 }
