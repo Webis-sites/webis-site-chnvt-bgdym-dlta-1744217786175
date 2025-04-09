@@ -1,0 +1,7 @@
+
+    # robots.txt for חנות בגדים דלתא
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://חנות-בגדים-דלתא.com/sitemap.xml
